@@ -1,5 +1,5 @@
 ---
-title: Dr. Andrew R. Harper; MSc MBBS MRCP DPhil
+title: Andrew R. Harper
 role: Director Physician, Early Respiratory & Immunology Clinical Development
 avatar_filename: arh_profile_photo.jpg
 bio: Physician-scientist with expertise in human genetics and clinical development
