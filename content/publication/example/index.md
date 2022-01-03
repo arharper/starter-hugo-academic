@@ -17,7 +17,7 @@ abstract: Hypertrophic cardiomyopathy (HCM) is a common, serious, genetic heart
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - admin
   - Anuj Goel
