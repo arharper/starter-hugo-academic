@@ -2,7 +2,7 @@
 title: Assessing the contribution of rare-to-common protein-coding variants to
   circulating metabolic biomarker levels via 412,394 UK Biobank exome sequences
 publication_types:
-  - "0"
+  - "3"
 authors:
   - Abhishek Nag
   - Lawrence Middleton
