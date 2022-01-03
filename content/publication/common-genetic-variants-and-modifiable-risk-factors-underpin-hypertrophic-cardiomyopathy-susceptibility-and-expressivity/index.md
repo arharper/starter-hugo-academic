@@ -39,11 +39,11 @@ abstract: Hypertrophic cardiomyopathy (HCM) is a common, serious, genetic heart
   fourfold. Common variants and modifiable risk factors have important roles in
   HCM that we suggest will be clinically actionable.
 draft: false
-featured: false
+featured: true
 image:
   filename: 41588_2020_764_fig1_html.webp
   focal_point: Smart
   preview_only: false
-date: 2022-01-03T10:19:05.461Z
+date: 2021-01-25T10:19:05.461Z
 ---
 https://rdcu.be/cEe1Q
