@@ -28,6 +28,9 @@ education:
     - course: DPhil in Medical Sciences
       institution: University of Oxford
       year: 2020
+    - course: HBX Credentials of Readiness (CORe)
+      institution: Harvard Business School
+      year: 2016
     - course: MRCP
       institution: Royal College of Physicians
       year: 2016
@@ -46,9 +49,6 @@ education:
     - institution: Kings College London
       year: 2021
       course: Advanced Clinical pharmacology
-    - course: HBX Credentials of Readiness (CORe)
-      institution: Harvard Business School
-      year: 2016
 email: ""
 superuser: true
 highlight_name: true
