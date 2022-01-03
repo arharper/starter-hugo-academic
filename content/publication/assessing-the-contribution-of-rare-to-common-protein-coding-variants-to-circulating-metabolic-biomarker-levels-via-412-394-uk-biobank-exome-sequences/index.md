@@ -18,6 +18,7 @@ authors:
   - Dirk S. Paul
   - admin
   - Slavé Petrovski
+doi: 10.1101/2021.12.24.21268381
 publication: In *MedRxiv*
 abstract: Genome-wide association studies have established the contribution of
   common and low frequency variants to metabolic biomarkers in the UK Biobank
